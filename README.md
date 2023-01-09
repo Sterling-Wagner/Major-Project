@@ -5,6 +5,7 @@ Progress Reports:
   Dec. 9th - Started working on pseudocode and UML
   Dec. 12th - Finished pseudocode, UML and model
   Jan. 4th - Finished basic prototype, started working on functionality
+  Jan. 9th - Added option to order stickers, Reworked Deals
 
 Schedule:
   
