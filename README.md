@@ -7,6 +7,7 @@ Progress Reports:
   Jan. 4th - Finished basic prototype, started working on functionality
   Jan. 9th - Added option to order stickers, Reworked Deals
   Jan. 11th - Finished adding file IO, worked on implementing discounts
+  Jan. 12th - Finished final program, started bug checking
 
 Schedule:
   
