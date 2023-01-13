@@ -13,3 +13,4 @@ Schedule:
   
   Dec. 14th - Get basic prototype implemented (Doesn't have to be working)
   Dec. 16th - Work on the functionality as much as possible (Sterling won't be here)
+  Jan. 14th - Final meeting with client
