@@ -3,11 +3,13 @@ Progress Reports:
   Dec. 7th - Established main purpose of program and some parameters(Deals, custom orders)
   Dec. 8th - Started working on design of the model
   Dec. 9th - Started working on pseudocode and UML
+  Dec. 10th - Switched from Netbeans to Replit
   Dec. 12th - Finished pseudocode, UML and model
   Jan. 4th - Finished basic prototype, started working on functionality
   Jan. 9th - Added option to order stickers, Reworked Deals
   Jan. 11th - Finished adding file IO, worked on implementing discounts
   Jan. 12th - Finished final program, started bug checking
+  Jan. 14th - Showed final project to the client
 
 Schedule:
   
