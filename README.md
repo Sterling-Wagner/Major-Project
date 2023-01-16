@@ -24,3 +24,9 @@ Issues:
 
   -Unable to figure out how to get netbeans to stack images on top of buttons | We continued on replit for convenience
   -Client wasn't really sure on what they wanted | Settled on a price calculator program
+
+Meetings: 
+
+  Dec. 7th - First meeting with client, they weren't really sure on what they wanted but knew it would be something related to their small online business (they sell stickers and prints online). | We decided on a price calculator
+  Dec. 17th - Showed client the pseudocode, planning, UML, etc. They gave the green light to implement these plans as code.
+  Jan. 14th -  Showed client the nearly finished product, code was function and only a few bugs remained. They were pleased and requested some more user friendly interfacing. | We added emojis.
