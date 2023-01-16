@@ -1,6 +1,6 @@
 Progress Reports:
 
-  Dec. 7th - Established main purpose of program and some parameters(Deals, custom orders)
+  Dec. 7th - Established main purpose of program and some parameters (Deals, custom orders)
   Dec. 8th - Started working on design of the model
   Dec. 9th - Started working on pseudocode and UML
   Dec. 10th - Switched from Netbeans to Replit
